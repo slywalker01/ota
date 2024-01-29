@@ -1,0 +1,11 @@
+[
+    {
+        "fileVersion": 13,
+        "fileSize": 245406,
+        "manufacturerCode": 4151,
+        "imageType": 2,
+        "sha512": "dd77b28a3b4664e7ad944fcffaa9eca9f3adb0bbe598e12bdd6eece8070a8cdda6792bed378d173dd5b4532b4cdb88cebda0ef0c432c4c4d6581aa9f2bbba54d",
+        "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/Jennic/ZLinky_router_v13_limited.ota",
+        "path": "images/Jennic/ZLinky_router_v13_limited.ota"
+    }
+]
